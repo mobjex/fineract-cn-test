@@ -15,4 +15,4 @@
  * limitations under the License.
  */
 
-rootProject.name = 'test'
+rootProject.name = 'fineract-cn-test'

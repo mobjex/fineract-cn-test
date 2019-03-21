@@ -1,3 +1,5 @@
+[![Release](https://jitpack.io/v/mobjex/fineract-cn-test.svg)](https://jitpack.io/#mobjex/fineract-cn-test)
+
 # Apache Fineract CN Test
 
 ## Abstract
